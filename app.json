@@ -1,0 +1,31 @@
+{
+  "expo": {
+    "name": "studybuddy",
+    "entryPoint": "./screens/onboarding/splash1.js",
+    "slug": "studybuddy",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/misc/icon.png",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "image": "./assets/misc/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/misc/adaptive-icon.png",
+        "backgroundColor": "#ffffff"
+      }
+    },
+    "web": {
+      "favicon": "./assets/misc/favicon.png"
+    }
+  }
+}

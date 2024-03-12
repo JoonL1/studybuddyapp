@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "828979020069",
+    "project_id": "studybuddy-for-hac-app2",
+    "storage_bucket": "studybuddy-for-hac-app2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:828979020069:android:1d372e415ff9d19cae9acc",
+        "android_client_info": {
+          "package_name": "com.studybuddy.studybuddy"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyABQ5akB9_dBjdhP13exnaaljc8QI0MQwQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
